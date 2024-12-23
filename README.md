@@ -24,7 +24,7 @@ npm (v6 or higher)
 
 # Installation
 Clone the repository:
-git clone https://github.com/your-username/checklist-system.git
+git clone https://github.com/Sparsh55/CheckList-System-MERN.git
 cd checklist-system
 
 # Install dependencies:
