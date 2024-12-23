@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .dashboard {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  }
+  
+  .checklist {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .checklist li {
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    font-size: 1.2em;
+  }
+  
+  .checklist .passed {
+    background-color: #d4edda;
+    color: #155724;
+  }
+  
+  .checklist .failed {
+    background-color: #f8d7da;
+    color: #721c24;
+  }
+  
